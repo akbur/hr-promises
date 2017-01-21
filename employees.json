@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Spidy",
+      "role": "Lead Tech Mentor",
+      "organization": "Remote Beta"
+    },
+    {
+      "id": 2,
+      "name": "Liz Penny",
+      "role": "Class Lead",
+      "organization": "Remote Beta"
+    },
+    {
+      "id": 3,
+      "name": "John Dvorak",
+      "role": "Infrastructure Lead Engineer",
+      "organization": "Hack Reactor"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "owner": 1,
+      "name": "Admissions Application",
+      "status": "On Track"
+    },
+    {
+      "id": 2,
+      "owner": 1,
+      "name": "Taser v2",
+      "status": "Delayed"
+    },
+    {
+      "id": 3,
+      "owner": 3,
+      "name": "Complex Infra Thingy",
+      "status": "Complete"
+    }
+  ]
+}
